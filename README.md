@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uWexR1UQBz4mssaa4gFLwEI1UY4-DgIw/view?usp=sharing](https://drive.google.com/file/d/1uWexR1UQBz4mssaa4gFLwEI1UY4-DgIw/view?usp=sharing)
 
-- ⚡ Fun fact **I am watching better call Saul right now**
+- ⚡ Fun fact **I am watching The Boys right now**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
