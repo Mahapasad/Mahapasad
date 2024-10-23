@@ -1,6 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Mahaprasad</h1>
+<h1 align="center">
+  Welcome to Mahaprasad's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=AA2AF7&center=true&width=530&height=60&lines=I'm+Mahaprasad+Prusty;An+Enthusiastic+Learner;A+Student+Developer;A+Problem+Solver">
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahaprasad" alt="mahaprasad" /></a> </p>
 
